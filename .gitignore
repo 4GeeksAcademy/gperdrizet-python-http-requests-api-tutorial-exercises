@@ -23,4 +23,5 @@ exercises/*/__pycache__/
 !/.learn/assets
 !/.learn/assets/**
 
-__pycache_
+__pycache__
+.learn
